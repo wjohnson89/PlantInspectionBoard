@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-02T09:28:19">
+<PlantInspectionActivity>
+<Initials>TBA</Initials>
+<ActivityDate>2019-01-03T00:00:00</ActivityDate>
+<Plant>Agg Industries Waltham</Plant>
+<MIX>4000 3/8 Tremie</MIX>
+<Quantity>22</Quantity>
+<Units>CY</Units>
+<ProposedUse>Piles</ProposedUse>
+<OnSiteTime>1899-12-30T23:59:00</OnSiteTime>
+</PlantInspectionActivity>
+
+</dataroot>
